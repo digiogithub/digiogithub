@@ -65,6 +65,18 @@ Work I lead or maintain from this account — AI agents, developer platforms, an
 
 Related org work (same programme): [remembrances-mcp](https://github.com/madeindigio/remembrances-mcp), [mesnada](https://github.com/madeindigio/mesnada), [pando-docs](https://github.com/madeindigio/pando-docs), and the Pando SDKs under [madeindigio](https://github.com/madeindigio).
 
+### CLIs & libraries for humans and agents
+
+Recent open source releases (MIT): small, dependency-light tools that give people and AI agents direct access to the systems we work with every day.
+
+| Repository | What it is |
+|---|---|
+| [**jira-cli**](https://github.com/digiogithub/jira-cli) | Terminal CLI for Jira and Confluence (Bun/Node, zero runtime deps): export issues and pages to Markdown with YAML frontmatter, apply edits back, and download whole projects or spaces through a resumable job queue. |
+| [**youtrack-cli**](https://github.com/madeindigio/youtrack-cli) | The YouTrack sibling of jira-cli: list issues, round-trip them as Markdown, manage knowledge base articles, and export full project history. |
+| [**gwork**](https://github.com/madeindigio/gwork) | Google Workspace (Gmail, Calendar, Drive, Chat) from the terminal and as an MCP server. Single Go binary, read-only by default with opt-in writes. |
+| [**toonq**](https://github.com/madeindigio/toonq) | yq-style processor in Rust: reads YAML, JSON, TOML, XML, CSV and more, applies jq-style expressions and outputs [TOON](https://toonformat.dev), the token-efficient format for feeding data to LLMs. |
+| [**go-tree-sitter**](https://github.com/madeindigio/go-tree-sitter) | Go bindings for tree-sitter with bundled grammars for 35+ languages, including additions such as Twig. |
+
 ### Tooling, infra & experiments
 
 | Repository | What it is |
