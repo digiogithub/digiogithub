@@ -58,6 +58,7 @@ Work I lead or maintain from this account — AI agents, developer platforms, an
 | Repository | What it is |
 |---|---|
 | [**pando**](https://github.com/digiogithub/pando) | Terminal-first AI coding agent. DIGIO Alchemai project. |
+| [**bitacora**](https://github.com/digiogithub/bitacora) | Fast, cross-platform Rust desktop outliner (GPUI) for Logseq Markdown graphs: SQLite/FTS5 index, built-in Git sync, MCP server, and an AI agent powered by Pando. MIT. |
 | [**git-in-track**](https://github.com/digiogithub/git-in-track) | Git- and Markdown-based project management for humans and agents. |
 | [**docsai**](https://github.com/digiogithub/docsai) | Office / LibreOffice rich documents → styled Markdown for AI editing. |
 | [**brio**](https://github.com/digiogithub/brio) | Headless BaaS and backoffice. |
