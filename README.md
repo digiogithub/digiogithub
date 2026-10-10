@@ -71,9 +71,6 @@ Related org work (same programme): [remembrances-mcp](https://github.com/madeind
 |---|---|
 | [**dirsync**](https://github.com/digiogithub/dirsync) | Compare, diff, merge and sync folders. |
 | [**hostexec**](https://github.com/digiogithub/hostexec) | Run host binaries from a Docker container over a daemon + Unix socket. |
-| [**SmartWorkstation**](https://github.com/digiogithub/SmartWorkstation) | Tuya smart-device control workstation. |
-| [**privateGPT**](https://github.com/digiogithub/privateGPT) | Private document Q&A with local models (fork / research). |
-| [**acp-registry**](https://github.com/digiogithub/acp-registry) | Registry of Agent Client Protocol implementations. |
 
 ---
 
